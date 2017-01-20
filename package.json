@@ -1,6 +1,6 @@
 {
 	"name": "dummywrap",
-	"version": "1.0.0.0.0",
+	"version": "1.0.0",
 	"main": "./Dummy.js",
 	"author": "OP3FT",
 	"license": "OP3FT"
